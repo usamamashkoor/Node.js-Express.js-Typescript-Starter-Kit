@@ -15,10 +15,14 @@ node server.js
 npm run test
 ```
 
-###This is a REST API CRUD.
+### This is a REST API CRUD.
 
 You can create the constellation.
+
 You can update the constellation.
+
 You can delete the constellation.
+
 You can fetch the constellation.
+
 You can get all constellations.
